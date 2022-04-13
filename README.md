@@ -23,3 +23,6 @@ cat <filename> - displays the content in the file
 cd <directory name> - to navigate to the directory        
 
 pwd - present working directory        
+
+git reset --hard 4cf337a
+
